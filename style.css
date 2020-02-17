@@ -1,0 +1,17 @@
+.name {margin: 0 auto;
+text-align: center;
+width: 1024px;
+background-color: lightgray;
+}
+ul{text-align: left;}
+img{border-radius: 50%;}
+h1{font-family: Lacquer;
+font-size: 50px;
+font-weight: bolder;}
+img{size: 100px 200px;}
+p{font-family: Sriracha;}
+li{font-family: Sriracha;}
+h2{font-family: Lacquer;}
+.summary{text-align: justify;
+padding-left: 40px;
+padding-right: 40px;}
